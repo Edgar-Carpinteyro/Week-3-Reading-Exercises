@@ -1,5 +1,5 @@
 # Week-3-Reading-Exercises
 
-**Looping a triangle
-*FizzBuzz
-*Chessboard
+* Looping a triangle
+* FizzBuzz
+* Chessboard
